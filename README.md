@@ -1,2 +1,14 @@
 # EventEase-Phase1
-Structure: - /components UI components - /pages Next.js pages - /lib API + socket stubs - /store Redux slices - /styles SCSS modules and globals
+
+Features:
+- Event listing & details
+- RSVP flow with mock API
+- Real-time RSVP demo via Socket.IO
+
+Run:
+1. npm ci
+2. npm run dev
+
+Dev:
+- Tests: npm test
+- Build: npm run build
